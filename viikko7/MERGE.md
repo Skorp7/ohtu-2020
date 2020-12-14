@@ -1,1 +1,2 @@
-https://github.com/Latelaukki/Scrumbags/pull/4
+
+https://github.com/Latelaukki/Scrumbags/pull/6
